@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ahmedkucuk" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615986963~hmac=5b5aa9de1c02c245b500c2855175f10e" alt="ahmedkucuk" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed.kucuk.37" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1620735806~hmac=0350f5792635e35189ceb7a4483b9708" alt="ahmed kucuk" height="30" width="40" /></a>
-<a href="https://instagram.com/ak.plomo" target="blank"><img align="center" fill="white" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="ak.plomo" height="30" width="40" style="fill:white;" /></a>
+<a href="https://instagram.com/ak.plomo" target="blank"><img align="center" fill="white" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1620735848~hmac=8e6691db87175397c53dcbee5ce12c20" alt="ak.plomo" height="30" width="40" style="fill:white;" /></a>
 <a href="https://www.youtube.com/c/BiteMyLife" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1615986917~hmac=6c1d257e38cb1f7762247a72a5b60b0f" alt="goland" height="30" width="40" /></a>
 
 

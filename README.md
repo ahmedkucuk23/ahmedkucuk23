@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ahmedkucuk" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615986963~hmac=5b5aa9de1c02c245b500c2855175f10e" alt="ahmedkucuk" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.kucuk.37" target="blank"><img align="center" src="http://i.imgur.com/P3YfQoD.png" alt="ahmed kucuk" height="30" width="40" /></a>
+<a href="https://fb.com/ahmed.kucuk.37" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffacebook%2F130940&psig=AOvVaw02E_YruUOwdPCdNbgTpUf5&ust=1620821179891000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiZ9MfLwfACFQAAAAAdAAAAABAD" alt="ahmed kucuk" height="30" width="40" /></a>
 <a href="https://instagram.com/ak.plomo" target="blank"><img align="center" fill="white" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1615986864~hmac=7a2b5bf1da43a84935078036454aef50" alt="ak.plomo" height="30" width="40" style="fill:white;" /></a>
 <a href="https://www.youtube.com/c/BiteMyLife" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1615986917~hmac=6c1d257e38cb1f7762247a72a5b60b0f" alt="goland" height="30" width="40" /></a>
 

@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Fullstack developer from Bosnia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedkucuk23&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkucuk23" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkucuk23" alt="ahmedkucuk23" /></a> </p>
 
 - 🔭 I’m currently working on [Vetonde](https://vetonde.herokuapp.com/)

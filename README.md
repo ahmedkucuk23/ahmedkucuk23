@@ -4,17 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedkucuk23&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkucuk23" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkucuk23" alt="ahmedkucuk23" /></a> </p>
 
-- 🔭 I’m currently working on [Vetonde](https://vetonde.herokuapp.com/)
+- 🔭 I’m currently working on [Balance Conference](https://vetonde.herokuapp.com/)
 
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [VetOnDemand](/)
 
 - 🤝 I’m looking for help with **Backend**
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **ahmed.kucuk123@gmail.com**
+- 📫 How to reach me **ahmed@mita.ba**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ahmedkucuk" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620735920~hmac=666d1ef429680b87d93038bfb8f12871" alt="ahmedkucuk" height="30" width="40" /></a>
